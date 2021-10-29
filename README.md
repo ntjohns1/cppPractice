@@ -1,6 +1,6 @@
 # cppPractice
 
-[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](http://www.apache.org/licenses/LICENSE-2.0)
 
 ## Description
 This is a repository of simple exercises I am using to learn C++. I am storing the exercises in a single repository so I can easily review them and track my progress.
