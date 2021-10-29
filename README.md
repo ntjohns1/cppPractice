@@ -1,5 +1,5 @@
-"'Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.'"
 # cppPractice
+
 ## Description
 This is a repository of simple exercises I am using to learn C++. I am storing the exercises in a single repository so I can easily review them and track my progress.
 
